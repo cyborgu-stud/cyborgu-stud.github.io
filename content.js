@@ -4,14 +4,14 @@
 window.SITE_CONTENT = {
   meta: {
     // #UPDATE: Set the browser title for your site
-    title: 'Your Name — Portfolio & Essays',
+    title: 'CyborgU Student — Portfolio & Essays',
     // #UPDATE: Customize the site-wide meta description
     description: 'A clean, mobile-first template for sharing your work and long-form writing.',
   },
   navigation: {
     brand: {
       // #UPDATE: Change the logo text in the top-left corner
-      label: 'Your Name',
+      label: 'CyborgU Student',
       // #UPDATE: Adjust where the brand link points
       href: '#about',
     },
@@ -27,7 +27,7 @@ window.SITE_CONTENT = {
     // #UPDATE: Introduce your core roles or focus areas
     kicker: 'Product builder • Investor • Writer',
     // #UPDATE: The main heading in the hero section
-    heading: 'Hi, I’m Your Name.',
+    heading: 'Hi, I’m CyborgU Student.',
     // #UPDATE: Add one or more summary paragraphs that describe your mission
     summary: [
       'I build thoughtful software products and occasionally invest in people who want to do the same. This minimalist, mobile-friendly layout keeps the focus on your story and longer-form thinking.',
